@@ -10,7 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "axios": "^1.8.4",
+    "axios": "^1.20.0",
     "highlight.js": "^11.11.1",
     "marked": "^15.0.8",
     "package.json": "^2.0.1",
